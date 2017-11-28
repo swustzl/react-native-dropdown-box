@@ -1,0 +1,28 @@
+{
+  "name": "react-native-dropdown-box",
+  "version": "1.0.0",
+  "description": "一个React Native 下拉框组件",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swustzl/react-native-dropdown-box.git"
+  },
+  "keywords": [
+    "npm",
+    "react-native",
+    "drop-down",
+    "box"
+  ],
+  "author": "zl.zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swustzl/react-native-dropdown-box/issues"
+  },
+  "homepage": "https://github.com/swustzl/react-native-dropdown-box#readme"
+}
